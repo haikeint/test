@@ -3,4 +3,5 @@ day la nhanh 1
 và noi dung nhanh 1
 noi dung lan 2
 123123
+nhanh2--content
 master-content
